@@ -1,0 +1,30 @@
+# General
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Jupyter
+jupyterlab
+
+# Machine Learning
+scikit-learn
+torch
+tensorflow
+
+# NLP
+nltk
+spaCy
+gensim
+
+# Model Interpretation
+eli5
+shap
+lime
+
+# Data Version Control
+dvc
+
+# Utilities
+tqdm

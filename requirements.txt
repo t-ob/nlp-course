@@ -7,6 +7,7 @@ scipy
 
 # Jupyter
 jupyterlab
+ipywidgets
 
 # Machine Learning
 scikit-learn
@@ -22,9 +23,11 @@ gensim
 eli5
 shap
 lime
+torchviz
 
 # Data Version Control
 dvc
 
 # Utilities
 tqdm
+tensorboard

@@ -1,0 +1,2 @@
+python -m src.app.makemore_mlp --training-sample-size 100
+python -m src.app.makemore_mlp --training-sample-size 10

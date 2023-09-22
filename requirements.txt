@@ -31,3 +31,6 @@ dvc
 # Utilities
 tqdm
 tensorboard
+
+wandb
+python-dotenv
